@@ -1,5 +1,3 @@
-/*
- * -------------------------------------------
  * Project/Program Name : Programming ESP8266
  * Author               : Ryan Chan
  * Date                 : 15/10/2024
@@ -29,5 +27,3 @@
  * Usage Notes:
  *    - Change the Wi-Fi credentials in the code according to the network used.
  *    - The program will only send data when the pushbutton is pressed.
- * ---------------------------------------------------------------------------
- */
